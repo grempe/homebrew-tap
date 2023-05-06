@@ -1,4 +1,4 @@
-class TruestampCli < Formula
+class Sharkey < Formula
   desc "A CLI tool to create, and re-create, an age identity keypair with threshold secret sharing."
   homepage "https://github.com/grempe/sharkey"
 
