@@ -4,14 +4,14 @@ class Sharkey < Formula
 
   # RELEASE : CHANGE ME
   # Shared version constant
-  VERSION = "v0.0.3"
+  VERSION = "v0.0.5"
 
   # RELEASE : CHANGE ME
   # wget [file]
   # sha256sum [file]
-  SHA256_DARWIN_X86 = "87fb203ee76f41b3dac1b87cfee1543a44e9a46a1d8c012df9d5270558555d4c"
-  SHA256_LINUX_X86 = "7a7d2ba4f99e955e56d38373f0f2cd1e64fc5cb2ec429379a82d582a2600a57b"
-  SHA256_DARWIN_ARM = "ab919c23d53ff2fa68e619ef66c9bafccdfe99af3c78f837c4f85e8bad05f108"
+  SHA256_DARWIN_X86 = "9a2c0637fe5265b1d70a828394cc0b0284069ed66653a9fff1a79a9efc9d6681"
+  SHA256_LINUX_X86 = "d49cf3686e2aee37ec2df6afde4cfd9f2080489e269bbfba0ae6a3ebb4bdeb45"
+  SHA256_DARWIN_ARM = "b318bfefb6961ba2148c98d3551a9bc710891eefa1a590aa1ed5fb8bc865fa64"
 
   BASE_URL = "https://github.com/grempe/sharkey/releases/download"
 
